@@ -23,7 +23,7 @@ List all the features completed.
 
 ## Additional Features
 
-Describe the additional features that has been implemented.
+-
 
 ## Contributions
 
